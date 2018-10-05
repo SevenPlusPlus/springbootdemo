@@ -1,2 +1,2 @@
 # springbootdemo
-just for paas ci test
+A simple springboot restful api demo which just for paas ci test
